@@ -1,7 +1,5 @@
-import {StatusBar} from 'expo-status-bar';
 import {StyleSheet, Text, View} from 'react-native';
 import APP from './src/APP';
-
 export default APP;
 // export default function App() {
 //   const name = '강해민';
